@@ -16,4 +16,10 @@ git commit -m<"write your commit msg here">
 
 git restore --staged <enter file name> after that you would see the staged file will move back to unstage are.
 
-git log - to check the all history of commita
+git log - to check the all history of commit
+
+git branch - to check current branch ( if have 3 branches and i have run the command of <git branch> it shows me output like this  "branch1, branch2, branch3, suppose i am working in branch1 it shows me like this, your  *brach.
+
+git branch <ENTER BRANCH NAME>.
+
+1
