@@ -1,0 +1,19 @@
+GIT COMMANDS
+
+git - to check git installed properly.
+
+git --version - to check the current version of git bash.
+
+git init -  to initiliaze the project.
+
+git status - to the check the current status of working project we should keep checking this.
+
+git add . -  to add all the project at a time.
+
+git add -  <write a particular file name.
+
+git commit -m<"write your commit msg here">
+
+git restore --staged <enter file name> after that you would see the staged file will move back to unstage are.
+
+git log - to check the all history of commita
