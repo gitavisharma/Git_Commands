@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GIT COMMANDS
 
 git - to check git installed properly.
@@ -33,5 +34,3 @@ git branch -d <ENTER BRANCH NAME> TO DELETE ANY BRANCHES
 "VERY IMPORTANT POINT, WHEN WE MAKE A BRANCH FROM OUR EXISTING BRANCH ALL THE DATA ARE COPY TO OUR NEW BRANCH."
 
 git log --oneline <to check all commit in oneline>
-
-
