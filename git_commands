@@ -50,4 +50,20 @@ git restore --staged <file name> move back from tracked file to untracked file.
 
 
 
+git branch - to check current branch ( if have 3 branches and i have run the command of <git branch> it shows me output like this  "branch1, branch2, branch3, suppose i am working in branch1 it shows me like this, your  *brach.
+
+git brnach -d <ENTER BRANCH NAME> TO DELETE BRANCH
+
+git branch <ENTER BRANCH NAME>. to make branch.
+
+git checkout <ENTER BRANCH NAME> to change branch.
+
+git branch -d <ENTER BRANCH NAME> TO DELETE ANY BRANCHES
+
+
+
+"VERY IMPORTANT POINT, WHEN WE MAKE A BRANCH FROM OUR EXISTING BRANCH ALL THE DATA ARE COPY TO OUR NEW BRANCH."
+
+git log --oneline <to check all commit in oneline>
+
 
