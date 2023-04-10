@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GIT COMMANDS
 
 git - to check git installed properly.
@@ -14,6 +15,39 @@ git add -  <write a particular file name.
 
 git commit -m<"write your commit msg here">
 
-git restore --staged <enter file name> after that you would see the staged file will move back to unstage are.
+git restore --staged <enter file name> after that you would see the staged file will move back to unstage arae.
 
-git log - to check the all history of commita
+git log - to check the all history of commit
+
+git branch - to check current branch ( if have 3 branches and i have run the command of <git branch> it shows me output like this  "branch1, branch2, branch3, suppose i am working in branch1 it shows me like this, your  *brach.
+
+git brnach -d <ENTER BRANCH NAME> TO DELETE BRANCH
+
+git branch <ENTER BRANCH NAME>. to make branch.
+
+git checkout <ENTER BRANCH NAME> to change branch.
+
+git branch -d <ENTER BRANCH NAME> TO DELETE ANY BRANCHES
+
+
+
+"VERY IMPORTANT POINT, WHEN WE MAKE A BRANCH FROM OUR EXISTING BRANCH ALL THE DATA ARE COPY TO OUR NEW BRANCH."
+
+git log --oneline <to check all commit in oneline>.
+ 
+
+git stash <we use git stas when have another importatant work, and we have to complete that work first,we use
+git stash to clean our working directory and save our data any other seprate place.>
+
+
+git stash list < to check how many project we have in stash>
+
+git stash pop <get back all data which was in the stashing area.>
+
+git reset <enter commit ID to make single commit>
+
+git restore --staged <file name> move back from tracked file to untracked file.
+
+
+
+
